@@ -12,7 +12,7 @@ Hi, My name is Breno 👩‍💻.
 
 ```
 
-[![Linkedin Badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badgeHeight=15)](https://www.linkedin.com/in/henryckbreno/)
+[![Linkedin Badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badgeHeight=15)](https://www.linkedin.com/in/brenohenryck/)
 [![Gmail Badge](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badgeHeight=15)](mailto:brenohenryck@gmail.com)
 [![Discord Badge](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badgeHeight=15)](discordapp.com/users/255088193794211862)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=&style=for-the-badgeHeight=15)](https://open.spotify.com/user/12169889433)
