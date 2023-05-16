@@ -34,14 +34,14 @@ Hi, My name is Breno 👩‍💻.
 <br>
 <hr>
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Brenenho&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="400" height="170" src="https://github-readme-stats.vercel.app/api?username=Brenenho&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   
-  <img align="right" height="170" src="https://streak-stats.demolab.com?user=Brenenho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+  <img align="right" width="400" height="170" src="https://streak-stats.demolab.com?user=Brenenho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div>
   
   <br>
   <hr>
   
-  <img src="https://raw.githubusercontent.com/Brenenho/Brenenho/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Brenenho/brenenho/89a968e85b26083c8ad35ed2e047d54680333526/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
   
