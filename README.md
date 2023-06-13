@@ -42,6 +42,6 @@ Hi, My name is Breno 👩‍💻.
   <br>
   <hr>
   
-  <img src="https://raw.githubusercontent.com/Brenenho/brenenho/89a968e85b26083c8ad35ed2e047d54680333526/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  ![snake gif](https://github.com/Brenenho/brenenho/blob/output/snake.svg)
 
   
